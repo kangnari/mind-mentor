@@ -1,5 +1,5 @@
-# Ruby on Rails Tutorial: first application
+# Mind Mentor (Health 2.0 Hackathon)
 
-This is the first application for the
-[*Ruby on Rails Tutorial*](http://railstutorial.org/)
-by [Michael Hartl](http://michaelhartl.com/).
+This is an application for connecting clinicians with their psychiatric patients for monitoring and self-help purposes.
+
+mind-mentor.herokuapp.com
